@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+body {
+  font-family: 'Quicksand', sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Quicksand', sans-serif;
+}
+
+
+
+
+
+
+
+
+.parallax {
+  /* The image used */
+  background-image: url("./images/SCPBG.png");
+
+  /* Set a specific height */
+  min-height: 930px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
