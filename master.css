@@ -16,9 +16,9 @@ h1, h2, h3, h4, h5, h6 {
 .parallax {
   /* The image used */
   background-image: url("./images/SCPBG.png");
-
+  width: 100%;
   /* Set a specific height */
-  min-height: 930px;
+  min-height: 1000px;
 
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
